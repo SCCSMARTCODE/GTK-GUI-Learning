@@ -83,3 +83,8 @@ Contributions are welcome! Please follow these steps:
 ---
 Developed with GTK+ and a passion for learning GUI programming in C!
 
+
+## Author
+- **SCCSMARTCODE**
+
+---
