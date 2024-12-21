@@ -14,5 +14,5 @@ typedef struct SaveExpensePackage{
 }SaveExpensePackage;
 
 
-void init__();
+void init__(int argc, char **argv);
 void save_expense_botton_handler(GtkWidget *widget, SaveExpensePackage *data);
