@@ -15,7 +15,7 @@ A personal learning journey into building modern graphical user interfaces (GUIs
    - A functional app to track expenses categorized by type with real-time summaries and visual charts.
    - Introduces tree views, dynamic updates, and visualization using GTK.
 
-3. **Calculator App (Upcoming)**
+3. **Calculator App**
    - A GUI-based calculator with basic arithmetic functions.
    - Focus on using grid layouts and keyboard input handling.
 
