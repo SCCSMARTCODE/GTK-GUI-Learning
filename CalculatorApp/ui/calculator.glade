@@ -7,6 +7,7 @@
     <property name="can_focus">False</property>
     <property name="hexpand">True</property>
     <property name="vexpand">True</property>
+    <property name="resizable">False</property>
     <property name="window_position">center</property>
     <property name="default_width">400</property>
     <property name="default_height">500</property>
@@ -115,7 +116,7 @@
               </packing>
             </child>
             <child>
-              <object class="GtkButton" id="button_Div">
+              <object class="GtkButton" id="button_DIV">
                 <property name="label" translatable="yes">/</property>
                 <property name="width_request">10</property>
                 <property name="height_request">10</property>
@@ -185,7 +186,7 @@
               </packing>
             </child>
             <child>
-              <object class="GtkButton" id="button_X">
+              <object class="GtkButton" id="button_MUL">
                 <property name="label" translatable="yes">x</property>
                 <property name="width_request">10</property>
                 <property name="height_request">10</property>
@@ -255,7 +256,7 @@
               </packing>
             </child>
             <child>
-              <object class="GtkButton" id="button_MIN">
+              <object class="GtkButton" id="button_SUB">
                 <property name="label" translatable="yes">-</property>
                 <property name="width_request">10</property>
                 <property name="height_request">10</property>
